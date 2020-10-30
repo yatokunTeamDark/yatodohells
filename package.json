@@ -1,0 +1,34 @@
+{
+  "name": "yato",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "common-tags": "^1.8.0",
+    "discord-player": "^3.0.0-beta.1",
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0",
+    "enmap": "^4.8.7",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "firebase": "^8.0.0",
+    "firebase-admin": "^9.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fn": "^0.2.0",
+    "fs": "0.0.1-security",
+    "googleapis": "^62.0.0",
+    "jimp": "^0.6.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "sqlite3": "^5.0.0",
+    "yt-search": "^2.3.3",
+    "ytdl-core-discord": "^1.2.4"
+  }
+}
